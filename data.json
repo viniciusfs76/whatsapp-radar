@@ -1,0 +1,74 @@
+﻿{
+  "timestamp": "2026-08-10T11:15:00-03:00",
+  "conversasNaoLidas": 12,
+  "msgsNaoLidas": 74,
+  "chatsComUnread": 12,
+  "deltaConvos": 1,
+  "deltaMsgs": 3,
+  "proximoTick": "2026-08-10T11:30:00-03:00",
+  "top5": [
+    {"name": "Geraldo Clay", "time": "11:10", "snippet": "Sobre as possÃ­veis viagem preciso alinhar internamente, mas, especialmente em relaÃ§Ã£o Ã  Ãndia gostarÃ­amos de contar com outro nome do ITI. Seria possÃ­vel?", "unread": 3},
+    {"name": "Integra DGE", "time": "10:56", "snippet": "~Isabela Lemos: ParabÃ©ns, Rosana! Muita saÃºde e alegrias!", "unread": 38},
+    {"name": "ItaÃº", "time": "04:23", "snippet": "Identificamos uma compra negada no cartÃ£o final 8334â€¦", "unread": 2},
+    {"name": "WhatsApp", "time": "Friday", "snippet": "New: Usernames are coming to keep your number private", "unread": 1},
+    {"name": "LATAM Airlines", "time": "7/28/2026", "snippet": "Obrigado por entrar em contato com a LATAM Airlines.", "unread": 3}
+  ],
+  "history": [
+    {
+      "timestamp": "2026-08-10T11:15:00-03:00",
+      "conversasNaoLidas": 12,
+      "msgsNaoLidas": 74,
+      "deltaConvos": 1,
+      "deltaMsgs": 3,
+      "top": [
+        {"name": "Geraldo Clay", "unread": 3},
+        {"name": "Integra DGE", "unread": 38},
+        {"name": "ItaÃº", "unread": 2},
+        {"name": "WhatsApp", "unread": 1},
+        {"name": "LATAM Airlines", "unread": 3}
+      ]
+    },
+    {
+      "timestamp": "2026-08-10T11:00:00-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 71,
+      "deltaConvos": 0,
+      "deltaMsgs": 2,
+      "top": [
+        {"name": "Integra DGE", "unread": 38},
+        {"name": "ItaÃº", "unread": 2},
+        {"name": "WhatsApp", "unread": 1},
+        {"name": "LATAM Airlines", "unread": 3},
+        {"name": "Mercado Livre", "unread": 2}
+      ]
+    },
+    {
+      "timestamp": "2026-08-10T10:45:00-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 69,
+      "deltaConvos": 0,
+      "deltaMsgs": 7,
+      "top": [
+        {"name": "Integra DGE", "unread": 36},
+        {"name": "ItaÃº", "unread": 2},
+        {"name": "WhatsApp", "unread": 1},
+        {"name": "LATAM Airlines", "unread": 3},
+        {"name": "Mercado Livre", "unread": 2}
+      ]
+    },
+    {
+      "timestamp": "2026-08-10T10:33:00-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 62,
+      "deltaConvos": null,
+      "deltaMsgs": null,
+      "top": [
+        {"name": "Integra DGE", "unread": 31},
+        {"name": "ItaÃº", "unread": 2},
+        {"name": "WhatsApp", "unread": 1},
+        {"name": "LATAM Airlines", "unread": 3},
+        {"name": "Mercado Livre", "unread": 2}
+      ]
+    }
+  ]
+}
