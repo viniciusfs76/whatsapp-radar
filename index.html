@@ -349,6 +349,7 @@
   <footer>
     <div>Atualizado pelo cron <code>whatsapp-radar-15min</code> · arquivo self-contained</div>
     <div style="margin-top: 4px;">workspace: <code>~/.mavis/agents/mavis/workspace/whatsapp-radar-dashboard.html</code></div>
+    <div style="margin-top: 4px; color: var(--muted);">auto-refresh em <code id="countdown">05:00</code></div>
   </footer>
 </div>
 
@@ -463,6 +464,25 @@
   function escapeHtml(s) {
     return String(s || '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   }
+
+  // Auto-refresh a cada 5 minutos (a página é self-contained; recarregar
+  // puxa o snapshot novo commitado pelo cron no GitHub Pages)
+  const REFRESH_MS = 5 * 60 * 1000;
+  let nextRefreshAt = Date.now() + REFRESH_MS;
+  setInterval(function() {
+    location.reload();
+  }, REFRESH_MS);
+  // Countdown discreto no footer
+  function tickCountdown() {
+    const el = document.getElementById('countdown');
+    if (!el) return;
+    const remain = Math.max(0, nextRefreshAt - Date.now());
+    const m = Math.floor(remain / 60000);
+    const s = Math.floor((remain % 60000) / 1000);
+    el.textContent = String(m).padStart(2, '0') + ':' + String(s).padStart(2, '0');
+  }
+  setInterval(tickCountdown, 1000);
+  tickCountdown();
 </script>
 
 <!-- SNAPSHOT_DATA_PLACEHOLDER -->

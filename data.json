@@ -1,4 +1,4 @@
-{
+﻿{
     "proximoTick":  "2026-08-10T12:18:23-03:00",
     "deltaMsgs":  -1,
     "chatsComUnread":  11,
@@ -16,13 +16,13 @@
                                          "time":  "11:53",
                                          "name":  "Integra DGE",
                                          "unread":  40,
-                                         "snippet":  "~Caio Barros: Parabéns, Rosana, muita vida !! 👏🏼 🎂"
+                                         "snippet":  "~Caio Barros: ParabÃ©ns, Rosana, muita vida !! ðŸ‘ðŸ¼ ðŸŽ‚"
                                      },
                                      {
                                          "time":  "04:23",
-                                         "name":  "Itaú",
+                                         "name":  "ItaÃº",
                                          "unread":  2,
-                                         "snippet":  "Olá! Identificamos uma compra negada no seu cartão Itau final 8334 no v..."
+                                         "snippet":  "OlÃ¡! Identificamos uma compra negada no seu cartÃ£o Itau final 8334 no v..."
                                      },
                                      {
                                          "time":  "Friday",
@@ -34,13 +34,13 @@
                                          "time":  "7/28/2026",
                                          "name":  "LATAM Airlines",
                                          "unread":  3,
-                                         "snippet":  "Obrigado por entrar em contato com a LATAM Airlines 👋 ..."
+                                         "snippet":  "Obrigado por entrar em contato com a LATAM Airlines ðŸ‘‹ ..."
                                      },
                                      {
                                          "time":  "7/24/2026",
                                          "name":  "Mercado Livre",
                                          "unread":  2,
-                                         "snippet":  "¡Oi VINICIUS DE, cheguei! Estamos na porta 🏠 📦 Belt + 23..."
+                                         "snippet":  "Â¡Oi VINICIUS DE, cheguei! Estamos na porta ðŸ  ðŸ“¦ Belt + 23..."
                                      }
                                  ],
                         "deltaConvos":  -1
@@ -61,7 +61,7 @@
                                         "unread":  38
                                     },
                                     {
-                                        "name":  "Itaú",
+                                        "name":  "ItaÃº",
                                         "unread":  2
                                     },
                                     {
@@ -86,7 +86,7 @@
                                         "unread":  38
                                     },
                                     {
-                                        "name":  "Itaú",
+                                        "name":  "ItaÃº",
                                         "unread":  2
                                     },
                                     {
@@ -115,7 +115,7 @@
                                         "unread":  36
                                     },
                                     {
-                                        "name":  "Itaú",
+                                        "name":  "ItaÃº",
                                         "unread":  2
                                     },
                                     {
@@ -144,7 +144,7 @@
                                         "unread":  31
                                     },
                                     {
-                                        "name":  "Itaú",
+                                        "name":  "ItaÃº",
                                         "unread":  2
                                     },
                                     {
@@ -168,13 +168,13 @@
                      "time":  "11:53",
                      "name":  "Integra DGE",
                      "unread":  40,
-                     "snippet":  "~Caio Barros: Parabéns, Rosana, muita vida !! 👏🏼 🎂"
+                     "snippet":  "~Caio Barros: ParabÃ©ns, Rosana, muita vida !! ðŸ‘ðŸ¼ ðŸŽ‚"
                  },
                  {
                      "time":  "04:23",
-                     "name":  "Itaú",
+                     "name":  "ItaÃº",
                      "unread":  2,
-                     "snippet":  "Olá! Identificamos uma compra negada no seu cartão Itau final 8334 no v..."
+                     "snippet":  "OlÃ¡! Identificamos uma compra negada no seu cartÃ£o Itau final 8334 no v..."
                  },
                  {
                      "time":  "Friday",
@@ -186,13 +186,13 @@
                      "time":  "7/28/2026",
                      "name":  "LATAM Airlines",
                      "unread":  3,
-                     "snippet":  "Obrigado por entrar em contato com a LATAM Airlines 👋 ..."
+                     "snippet":  "Obrigado por entrar em contato com a LATAM Airlines ðŸ‘‹ ..."
                  },
                  {
                      "time":  "7/24/2026",
                      "name":  "Mercado Livre",
                      "unread":  2,
-                     "snippet":  "¡Oi VINICIUS DE, cheguei! Estamos na porta 🏠 📦 Belt + 23..."
+                     "snippet":  "Â¡Oi VINICIUS DE, cheguei! Estamos na porta ðŸ  ðŸ“¦ Belt + 23..."
                  }
              ]
 }
