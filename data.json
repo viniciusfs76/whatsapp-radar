@@ -1,17 +1,17 @@
 {
-    "top5":  [
-
-             ],
+    "timestamp":  "2026-08-11T14:16:22-03:00",
+    "proximoTick":  "2026-08-11T14:31:22-03:00",
     "conversasNaoLidas":  8,
     "msgsNaoLidas":  30,
     "chatsComUnread":  8,
-    "timestamp":  "2026-08-11T14:00:00-03:00",
-    "proximoTick":  "2026-08-11T14:15:00-03:00",
     "deltaConvos":  0,
     "deltaMsgs":  0,
+    "top5":  [
+
+             ],
     "history":  [
                     {
-                        "timestamp":  "2026-08-11T14:00:00-03:00",
+                        "timestamp":  "2026-08-11T14:16:22-03:00",
                         "conversasNaoLidas":  8,
                         "msgsNaoLidas":  30,
                         "chatsComUnread":  8,
