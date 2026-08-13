@@ -1,13 +1,21 @@
 {
-    "timestamp": "2026-08-13T19:17:22-03:00",
-    "conversasNaoLidas": 12,
-    "msgsNaoLidas": 39,
-    "chatsComUnread": 12,
-    "deltaConvos": 0,
-    "deltaMsgs": 0,
-    "proximoTick": "2026-08-13T19:32:22-03:00",
+    "timestamp": "2026-08-13T19:33:11-03:00",
+    "conversasNaoLidas": 11,
+    "msgsNaoLidas": 37,
+    "chatsComUnread": 11,
+    "deltaConvos": -1,
+    "deltaMsgs": -2,
+    "proximoTick": "2026-08-13T19:48:11-03:00",
     "top5": [],
     "history": [
+        {
+            "timestamp": "2026-08-13T19:33:11-03:00",
+            "conversasNaoLidas": 11,
+            "msgsNaoLidas": 37,
+            "chatsComUnread": 11,
+            "deltaConvos": -1,
+            "deltaMsgs": -2
+        },
         {
             "timestamp": "2026-08-13T19:17:22-03:00",
             "conversasNaoLidas": 12,
@@ -159,14 +167,6 @@
             "chatsComUnread": 11,
             "deltaConvos": 0,
             "deltaMsgs": -23
-        },
-        {
-            "timestamp": "2026-08-13T14:31:42-03:00",
-            "conversasNaoLidas": 11,
-            "msgsNaoLidas": 37,
-            "chatsComUnread": 11,
-            "deltaConvos": 0,
-            "deltaMsgs": 23
         }
     ]
 }
