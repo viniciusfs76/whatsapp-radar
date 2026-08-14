@@ -1,174 +1,172 @@
 {
-    "timestamp":  "2026-08-14T06:02:12-03:00",
-    "proximoTick":  "2026-08-14T06:17:12-03:00",
-    "conversasNaoLidas":  10,
-    "msgsNaoLidas":  33,
-    "chatsComUnread":  10,
-    "deltaConvos":  0,
-    "deltaMsgs":  0,
-    "top5":  [
-
-             ],
-    "history":  [
-                    {
-                        "timestamp":  "2026-08-14T06:02:12-03:00",
-                        "conversasNaoLidas":  10,
-                        "msgsNaoLidas":  33,
-                        "chatsComUnread":  10,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T05:49:09-03:00",
-                        "conversasNaoLidas":  10,
-                        "msgsNaoLidas":  33,
-                        "chatsComUnread":  10,
-                        "deltaConvos":  -1,
-                        "deltaMsgs":  -5
-                    },
-                    {
-                        "timestamp":  "2026-08-14T05:31:35-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T05:17:32-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T05:01:55-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T04:46:56-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T04:31:24-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T04:16:25-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T04:02:32-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T03:47:53-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T03:31:35-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T03:17:19-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T03:01:57-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T02:18:52-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T02:06:17-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T01:45:01-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T01:35:16-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T01:16:43-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T01:01:41-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    },
-                    {
-                        "timestamp":  "2026-08-14T00:46:38-03:00",
-                        "conversasNaoLidas":  11,
-                        "msgsNaoLidas":  38,
-                        "chatsComUnread":  11,
-                        "deltaConvos":  0,
-                        "deltaMsgs":  0
-                    }
-                ]
+  "timestamp": "2026-08-14T06:16:25-03:00",
+  "proximoTick": "2026-08-14T06:31:25-03:00",
+  "conversasNaoLidas": 10,
+  "msgsNaoLidas": 33,
+  "chatsComUnread": 10,
+  "deltaConvos": 0,
+  "deltaMsgs": 0,
+  "top5": [],
+  "history": [
+    {
+      "timestamp": "2026-08-14T06:16:25-03:00",
+      "conversasNaoLidas": 10,
+      "msgsNaoLidas": 33,
+      "chatsComUnread": 10,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T06:02:12-03:00",
+      "conversasNaoLidas": 10,
+      "msgsNaoLidas": 33,
+      "chatsComUnread": 10,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T05:49:09-03:00",
+      "conversasNaoLidas": 10,
+      "msgsNaoLidas": 33,
+      "chatsComUnread": 10,
+      "deltaConvos": -1,
+      "deltaMsgs": -5
+    },
+    {
+      "timestamp": "2026-08-14T05:31:35-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T05:17:32-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T05:01:55-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T04:46:56-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T04:31:24-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T04:16:25-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T04:02:32-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T03:47:53-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T03:31:35-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T03:17:19-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T03:01:57-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T02:18:52-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T02:06:17-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T01:45:01-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T01:35:16-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T01:16:43-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    },
+    {
+      "timestamp": "2026-08-14T01:01:41-03:00",
+      "conversasNaoLidas": 11,
+      "msgsNaoLidas": 38,
+      "chatsComUnread": 11,
+      "deltaConvos": 0,
+      "deltaMsgs": 0
+    }
+  ]
 }
